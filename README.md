@@ -19,3 +19,7 @@ Implemented accident prevention and detection system
 - In the future, WIFI module will be integrated and user-friendly app for riders to interact with the system.
 
 
+
+
+https://user-images.githubusercontent.com/68492875/221345697-daef6fd6-d90e-4529-993d-a9a328851d40.mp4
+
