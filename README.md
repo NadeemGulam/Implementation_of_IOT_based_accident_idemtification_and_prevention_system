@@ -1,8 +1,21 @@
-# Implementation_of_IOT_based_accident_idemtification_and_prevention_system
 
-• Implemented accident prevention using Alcohol, IR sensors which detects alcohol and whether the Rider has 
-  helmet on or not. 
-• For the Accident identification accelerometer have been implemented.
-• Arduino acts as the brain of the system and GSP, GPS module have been used to send the GPS co-ordinate 
-  of the rider to their emergency contacts.
-• In future planning to add WIFI module and also develop an app to have a user interface with the rider.
+# IOT based accident idemtification and prevention system
+
+Implemented accident prevention and detection system 
+
+
+![WhatsApp Image 2022-08-02 at 6 54 56 PM](https://user-images.githubusercontent.com/68492875/221345587-2eba3475-4d55-4786-9020-70ac0d604826.jpeg)
+
+
+
+## Description
+
+-  Implemented a system to prevent accidents by using alcohol sensors and IR sensors that detect alcohol consumption and the wearing of helmets by riders.
+
+- For the Accident identification accelerometer have been implemented.
+
+- The system is powered by an Arduino microcontroller and uses GPS and GSP modules to send the rider's location to emergency contacts in case of an accident.
+
+- In the future, WIFI module will be integrated and user-friendly app for riders to interact with the system.
+
+
