@@ -1,5 +1,5 @@
 
-# IOT based accident idemtification and prevention system
+# IOT based accident identification and prevention system
 
 Implemented accident prevention and detection system 
 
